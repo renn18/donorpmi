@@ -1,0 +1,10 @@
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/berita/page": "app/berita/page.js",
+  "/login/page": "app/login/page.js",
+  "/beranda/page": "app/beranda/page.js",
+  "/forgot-password/page": "app/forgot-password/page.js",
+  "/page": "app/page.js",
+  "/register/page": "app/register/page.js"
+}
